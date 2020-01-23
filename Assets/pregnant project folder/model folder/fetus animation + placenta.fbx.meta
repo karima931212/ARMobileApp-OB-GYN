@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: d7db618eca684486c8581fd08be95589
+timeCreated: 1512506546
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cintura
+    100002: fetus
+    100004: //RootNode
+    100006: head
+    100008: Joint_2
+    100010: Joint_2_2
+    100012: Joint_2_3
+    100014: Joint_2_4
+    100016: Joint_2_5
+    100018: Joint_2_6
+    100020: Joint_2_7
+    100022: Joint_2_8
+    100024: Joint_3
+    100026: Joint_3_2
+    100028: Joint_3_3
+    100030: Joint_3_4
+    100032: Joint_3_5
+    100034: Joint_3_6
+    100036: left_arm
+    100038: left_leg
+    100040: navel
+    100042: Null
+    100044: Null_2
+    100046: pierna
+    100048: placenta_B
+    100050: planceta_A
+    100052: right_arm
+    100054: Skin
+    100056: Skin_2
+    100058: Joint
+    100060: Joint_1
+    100062: Joint_1_2
+    100064: Joint_2_10
+    100066: Joint_2_11
+    100068: Joint_2_12
+    100070: Joint_2_13
+    100072: Joint_2_14
+    100074: Joint_2_9
+    100076: no_move
+    100078: Root
+    100080: Skin_3
+    100082: Joint_1_3
+    100084: Joint_1_4
+    100086: Joint_2_15
+    100088: Joint_2_16
+    100090: Joint_2_17
+    100092: Joint_2_18
+    100094: Joint_2_19
+    100096: Joint_2_20
+    100098: Joint_2_21
+    100100: Joint_2_22
+    100102: Joint_nn
+    100104: no_move_2
+    100106: Root_nn
+    100108: Skin_4
+    400000: cintura
+    400002: fetus
+    400004: //RootNode
+    400006: head
+    400008: Joint_2
+    400010: Joint_2_2
+    400012: Joint_2_3
+    400014: Joint_2_4
+    400016: Joint_2_5
+    400018: Joint_2_6
+    400020: Joint_2_7
+    400022: Joint_2_8
+    400024: Joint_3
+    400026: Joint_3_2
+    400028: Joint_3_3
+    400030: Joint_3_4
+    400032: Joint_3_5
+    400034: Joint_3_6
+    400036: left_arm
+    400038: left_leg
+    400040: navel
+    400042: Null
+    400044: Null_2
+    400046: pierna
+    400048: placenta_B
+    400050: planceta_A
+    400052: right_arm
+    400054: Skin
+    400056: Skin_2
+    400058: Joint
+    400060: Joint_1
+    400062: Joint_1_2
+    400064: Joint_2_10
+    400066: Joint_2_11
+    400068: Joint_2_12
+    400070: Joint_2_13
+    400072: Joint_2_14
+    400074: Joint_2_9
+    400076: no_move
+    400078: Root
+    400080: Skin_3
+    400082: Joint_1_3
+    400084: Joint_1_4
+    400086: Joint_2_15
+    400088: Joint_2_16
+    400090: Joint_2_17
+    400092: Joint_2_18
+    400094: Joint_2_19
+    400096: Joint_2_20
+    400098: Joint_2_21
+    400100: Joint_2_22
+    400102: Joint_nn
+    400104: no_move_2
+    400106: Root_nn
+    400108: Skin_4
+    2300000: placenta_B
+    2300002: planceta_A
+    3300000: placenta_B
+    3300002: planceta_A
+    4300000: planceta_A
+    4300002: placenta_B
+    4300004: navel
+    4300006: fetus
+    7400000: C4D Animation Take
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: fetus
+    13700002: navel
+    13700004: planceta_A
+    13700006: placenta_B
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: f3a5df96d6de74a0bbdf2eae5d25ab68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.5
+    second: {fileID: 2100000, guid: 5aa5c4696f2144bc99c3277b85d2e0cd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: C4D Animation Take
+      takeName: C4D Animation Take
+      firstFrame: 0
+      lastFrame: 270
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
